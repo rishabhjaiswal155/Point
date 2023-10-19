@@ -9,7 +9,7 @@ public class TestPoint {
 	 p.setX(6);
 	 p.setY(10);
 	 p.display();
-	 
+	 ----------------------------------------------------------------------------
 	 Point p1=new Point(11,5);
 	 p1.display();
 	 System.out.println("X="+p1.getX());
